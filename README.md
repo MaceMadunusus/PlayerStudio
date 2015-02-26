@@ -3,7 +3,7 @@ PlayerStudio
 
 This is a Work In Progress Unreal Engine 4 implementation of a Player Studio draft site for PlanetSide 2.
 
-Requires Unreal Engine 4.6 Official Release and above. 4.7 will be used on release to take advantage of Foliage Instancing.
+Requires Unreal Engine 4.7 Official Release and above.
 
 ##To-Do
 
