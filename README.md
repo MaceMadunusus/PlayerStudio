@@ -5,6 +5,11 @@ This is a Work In Progress Unreal Engine 4 implementation of a Player Studio dra
 
 Requires Unreal Engine 4.7 Official Release and above.
 
+##Notes
+To visualize faction color switching your level must be using the HUD_PS2 HUD asset. Once that is done, play your level in editor and hold R to enable the popup menu. Click the faction you would like to switch to.
+
+Don't want the music playing in-game? Hit M.
+
 ##To-Do
 
 There are more to do than this, but here are some things I can think of.
