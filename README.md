@@ -5,6 +5,8 @@ This is a Work In Progress Unreal Engine 4 implementation of a Player Studio dra
 
 Requires Unreal Engine 4.9 Official Release and above.
 
+**If you are updating from the 4.8 or below version of this repository then it is highly likely content will not be fully compatible due to a reorganization of assets. Backup prior to updating!**
+
 ##Notes
 To visualize faction color switching your level must be using the HUD_PS2 HUD asset and Pawn_PS2. Once that is done, play your level in editor and hold TAB to enable the pop-up menu. Click the faction you would like global assets to switch to.
 
